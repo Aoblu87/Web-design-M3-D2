@@ -20,9 +20,11 @@
     display: flex;
     justify-content: space-evenly;
     flex-basis: 80em;
-    height: 70vh;
+    height: 100vh;
     border-radius: 3em;
     background-color: rgb(254, 247, 226);
+    flex-wrap: wrap-reverse;
+
 
    
    
@@ -55,9 +57,10 @@
     padding: 0%;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap-reverse;
     align-items: flex-start;
     justify-content: space-evenly;
-
+    height: 25%;
     flex-basis: 33em;
 
 
