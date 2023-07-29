@@ -121,7 +121,7 @@ header {
     justify-content: space-evenly;
 }
 
-#card-product-container {
+.card-product-container {
     margin: 1%;
     padding: 0%;
     display: flex;
@@ -132,7 +132,7 @@ header {
 
 }
 
-#img-card {
+.img-card {
     background-image: url(assets/honey.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -144,7 +144,7 @@ header {
     height: 50vh;
 }
 
-#description-container {
+.description-container {
     margin-top: 1em;
     padding: 0%;
     display: flex;
@@ -153,7 +153,7 @@ header {
     height: 12vh;
 }
 
-#title-container {
+.title-container {
     margin: 0%;
     padding: 0%;
     display: flex;
@@ -162,24 +162,24 @@ header {
 
 }
 
-#title-container h3 {
+.title-container h3 {
     margin: 0%;
     font-size: 1.1em;
     color:saddlebrown;
 
 }
 
-#title-container p {
+.title-container p {
     margin: 0%;
     color:saddlebrown;
 
 }
 
-#price-container {
+.price-container {
     margin: 0%;
 }
 
-#price-container p {
+.price-container p {
     margin: 0%;
     font-size: 1.3em;
     color:saddlebrown;
@@ -188,7 +188,7 @@ header {
 
 }
 
-#add-to-cart-button {
+.add-to-cart-button {
     margin: 0%;
     display: flex;
     flex-direction: row;
@@ -199,7 +199,7 @@ header {
 
 }
 
-#add-to-cart-button button {
+.add-to-cart-button button {
     margin: 0%;
     background-color: rgb(254, 223, 126);
     height: 6vh;
