@@ -48,9 +48,11 @@
 #img-product {
     margin: 0%;
     padding: 0%;
-    display: flex;
+
     align-self: center;
-    width: 40em;
+  
+    max-width: 100%;
+    flex-basis: 500px;
 }
 
 
