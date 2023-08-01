@@ -9,6 +9,8 @@
     padding: 0%;
     display: flex;
     justify-content: center;
+    height: 75vh;
+
 
 
 
@@ -48,7 +50,7 @@
     padding: 0%;
     display: flex;
     align-self: center;
-
+    width: 40em;
 }
 
 
